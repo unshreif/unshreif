@@ -2,7 +2,7 @@
 <HR>
 <p>
   <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="[(https://content.linkedin.com/content/dam/brand/site/img/logo/logo-r.png]" alt="linkedin"> LinkedIn
+    <img src="[https://content.linkedin.com/content/dam/brand/site/img/logo/logo-r.png]" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 </p>
 
