@@ -5,7 +5,7 @@
    <i className="ci ci-linkedin-horizontal ci-5x"></i> LinkedIn
   </a> &nbsp; 
 </p>
- import { AwesomeSocialButton } from "awesome-social-button";
+ import { AwesomeSocialButton } from "awesome-social-button";}
 
  <AwesomeSocialButton
 			type="linkedin"
