@@ -11,5 +11,5 @@
 <b><p>Crafting Digital Experiences, One Line of Code at a Time </p></b>
 </div>
 <div align="center">
-  Welcome to my GitHub repository! <br> Here, you'll find a collection of projects and code snippets showcasing my journey as a developer.<br> From front-end designs with HTML, CSS, and JavaScript to dynamic back-end solutions using Node.js and databases like MySQL and MongoDB, each project reflects my passion for creating intuitive and efficient web experiences.
+  Welcome to my GitHub repository! <br> Here, you'll find a collection of projects and code snippets showcasing my journey as a developer.<br> From front-end designs with HTML, CSS, and JavaScript to dynamic back-end solutions <br> each project reflects my passion for creating intuitive and efficient web experiences.
 </div>
