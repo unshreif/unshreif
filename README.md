@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td>
-       <a rel="nofollow" class="external text" href="https://www.w3.org/html/logo/index.html"></a><a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0"></a><a href="https://commons.wikimedia.org/w/index.php?curid=12736763"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="50" width="50" style="max-width: 100%;"></a>
     </td>
   </tr>
 </table>
