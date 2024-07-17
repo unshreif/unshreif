@@ -7,6 +7,6 @@
   </a>
 </div>
 
-<div>
+<div align="center">
   <p>Crafting Digital Experiences, One Line of Code at a Time </p>
 </div>
