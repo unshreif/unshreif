@@ -8,5 +8,5 @@
 </div>
 <br>
 <div align="center">
-  <p>Crafting Digital Experiences, One Line of Code at a Time </p>
+<b><p>Crafting Digital Experiences, One Line of Code at a Time </p></b>
 </div>
