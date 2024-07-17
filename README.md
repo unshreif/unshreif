@@ -5,4 +5,12 @@
    <i className="ci ci-linkedin-horizontal ci-5x"></i> LinkedIn
   </a> &nbsp; 
 </p>
+ import { AwesomeSocialButton } from "awesome-social-button";
 
+ <AwesomeSocialButton
+			type="linkedin"
+			tooltip="Linkedin"
+			shape="square"
+			:width="40"
+			:link="{ href: '#', target: '_self' }" 
+	/>
