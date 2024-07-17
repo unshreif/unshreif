@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello+%2C+welcome+to+my+space.+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" style="margin-left:5vw;"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello+%2C+welcome+to+my+space.+" alt="Typing SVG" /></a>
