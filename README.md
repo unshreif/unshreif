@@ -11,7 +11,15 @@
 <b><p>Crafting Digital Experiences, One Line of Code at a Time.  </p></b>
 </div>
 
-<h2 align="center"><b>About Me 👨🏻‍💻</b></h2>
 <div align="center">
   Welcome to my GitHub repository! <br> Here, you'll find a collection of projects and code snippets showcasing my journey as a developer.<br> From front-end designs with HTML, CSS, and JavaScript to dynamic back-end solutions <br> each project reflects my passion for creating intuitive and efficient web experiences.
 </div>
+
+<h1 align="center">Skills 🤝🏻</h1>
+<table>
+  <tr>
+    <td>
+       <a rel="nofollow" class="external text" href="https://www.w3.org/html/logo/index.html"></a><a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0"></a><a href="https://commons.wikimedia.org/w/index.php?curid=12736763"></a>
+    </td>
+  </tr>
+</table>
