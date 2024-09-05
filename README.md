@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/unshreif/unshreif/output/snake.svg" alt="Snake animation" />
+<h3>Welcome to my GitHub profile! I’m a passionate frontend developer and tech enthusiast with a love for solving problems through code.</h3>
 
 ###
 
