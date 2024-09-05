@@ -40,19 +40,19 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.instagram.com/unshreif" target="_blank">
+  <a href="https://www.instagram.com/unshreif" target="_blank" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/unshreif/" target="_blank">
+  <a href="https://www.linkedin.com/in/unshreif/" target="_blank"style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/unshreif" target="_blank">
+  <a href="https://www.facebook.com/unshreif" target="_blank" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="65" height="35" alt="facebook logo"  />
   </a>
-  <a href="mailto:unshreif@outlook.com" target="_blank">
+  <a href="mailto:unshreif@outlook.com" target="_blank" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="65" height="35" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://x.com/unshreif" target="_blank">
+  <a href="https://x.com/unshreif" target="_blank" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="35" alt="twitter logo"  />
   </a>
 </div>
