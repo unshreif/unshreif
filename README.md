@@ -1,12 +1,12 @@
-<h2 align="left">Hi 👋! <br>My name is Muhmd.</h2>
+<h2 align="left">Hi 👋! <br>I am Muhmd.</h2>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=unshreif&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=unshreif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=unshreif&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=2" height="155" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=unshreif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=true&custom_title=Stats" height="156" alt="languages graph"  />
 </div>
 
 ###
