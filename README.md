@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I am Muhmd, A web developer. 👋🏻</h1>
+<h1 align="left">Hello, I am Muhmd</h1>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="center">Social</h2>
+<h2 align="center">Let's connect</h2>
 
 ###
 
