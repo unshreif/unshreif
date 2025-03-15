@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hi+there!+I'm+Your+Name;Welcome+to+my+Codeverse+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hi+there!+I'm+Muhmd+Samy;Welcome+to+my+Codeverse+✨" alt="Typing SVG" />
   
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" alt="Twitter"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" height="30" alt="Website"/></a>
+  <a href="https://linkedin.com/in/unshreif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/unshreif"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" alt="Twitter"/></a>
+  <a href="https://muhmdsamy.me"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" height="30" alt="Website"/></a>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=blueviolet&style=for-the-badge)
   
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=discord&no-frame=true&column=7" alt="Trophy" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=unshreif&theme=discord&no-frame=true&column=7" alt="Trophy" width="100%" />
 </div>
 
 <details open>
