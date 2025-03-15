@@ -5,7 +5,7 @@
   <a href="https://twitter.com/unshreif"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" alt="Twitter"/></a>
   <a href="https://muhmdsamy.me"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" height="30" alt="Website"/></a>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=unshreif&label=Visitors&color=blueviolet&style=for-the-badge)
   
   <img src="https://github-profile-trophy.vercel.app/?username=unshreif&theme=discord&no-frame=true&column=7" alt="Trophy" width="100%" />
 </div>
@@ -89,6 +89,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
   
   <img src="https://raw.githubusercontent.com/unshreif/unshreif/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
-  
-  *"Your favorite programming quote here"*
+
 </div>
