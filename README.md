@@ -43,15 +43,15 @@
     <table>
       <tr>
         <td width="50%">
-          <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=unshreif&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%"/>
         </td>
         <td width="50%">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=unshreif&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
         </td>
       </tr>
       <tr>
         <td colspan="2">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=1a1b27&color=628fda&line=2bbc8a&point=a877fc&hide_border=true" alt="Activity Graph" width="100%"/>
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=unshreif&bg_color=1a1b27&color=628fda&line=2bbc8a&point=a877fc&hide_border=true" alt="Activity Graph" width="100%"/>
         </td>
       </tr>
     </table>
@@ -61,11 +61,11 @@
 <details open>
   <summary><h2>🚀 Featured Projects</h2></summary>
   <div align="center">
-    <a href="https://github.com/yourusername/project1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true" />
+    <a href="https://github.com/unshreif/E-Commerce-website">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=unshreif&repo=E-Commerce-website&theme=tokyonight&hide_border=true" />
     </a>
-    <a href="https://github.com/yourusername/project2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true" />
+    <a href="https://github.com/unshreif/portfilio">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=unshreif&repo=portfilio&theme=tokyonight&hide_border=true" />
     </a>
   </div>
 </details>
@@ -73,22 +73,22 @@
 <details>
   <summary><h2>🏆 Achievements</h2></summary>
   <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" width="100%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=tokyonight&hide_border=true" width="48%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unshreif&theme=tokyonight" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unshreif&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=unshreif&theme=tokyonight&hide_border=true" width="48%"/>
   </div>
 </details>
 
 <div align="center">
   <h2>📬 Get In Touch</h2>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://calendly.com/yourusername"><img src="https://img.shields.io/badge/Schedule%20Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/></a>
+  <a href="mailto:unshreif@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://calendly.com/unshreif"><img src="https://img.shields.io/badge/Schedule%20Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/></a>
   
   ---
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
   
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/unshreif/unshreif/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
   
   *"Your favorite programming quote here"*
 </div>
