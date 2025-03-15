@@ -1,8 +1,8 @@
 <div align="center">
   <!-- Dynamic SVG Header with Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0366d6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5BYour+Name%5D;Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0366d6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5BMUHMD+SAMY%5D;Fron-End+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   
-  <!-- Dark/Light Mode Toggle -->
+
   <div class="theme-switch-wrapper">
     <em>Switch Theme</em>
     <label class="theme-switch" for="checkbox">
@@ -12,19 +12,19 @@
   </div>
 </div>
 
-<!-- Animated Particles Background (via iframe) -->
+
 <div align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/UNSHREIF">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" width="100%" alt="Header" />
   </a>
 </div>
 
 <!-- 3D Stats Visualization -->
 <div align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/unshreif">
     <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/unshreif">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
@@ -32,7 +32,7 @@
 <!-- Interactive Project Cards -->
 <div align="center">
   <h2>🚀 Featured Projects</h2>
-  <a href="https://github.com/yourusername/project1">
+  <a href="https://github.com/unshreif/VOD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=react&bg_color=0D1117&hide_border=true" alt="Project 1" />
   </a>
   <a href="https://github.com/yourusername/project2">
