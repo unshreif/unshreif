@@ -14,12 +14,12 @@
   <summary><h2>🧙‍♂️ About Me</h2></summary>
   <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-  - 🔭 Currently building **[Project Name](https://github.com/yourusername/projectname)**
+  - 🔭 Currently building **[E-commerce Website](https://github.com/unshreif/E-Commerce-website)**
   - 🌱 Exploring the depths of **Technology/Framework**
-  - 👨‍💻 All my projects are available at **[my portfolio](https://yourwebsite.com)**
+  - 👨‍💻 ou can also check **[my portfolio](https://muhmdsamy.me)**
   - 🎯 2024 Goals: Contribute to Open Source projects
-  - 🎮 When not coding: I enjoy [your hobbies]
-  - ⚡ Fun fact: Something interesting about yourself
+  - 🎮 When not coding: I enjoy [coding]
+  - ⚡ Fun fact: You're not just a computer science student; I am like a supercomputer in action!
 </details>
 
 <details open>
