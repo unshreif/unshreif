@@ -22,7 +22,7 @@
 <!-- 3D Stats Visualization -->
 <div align="center">
   <a href="https://github.com/unshreif">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=unshreif&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/unshreif">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
