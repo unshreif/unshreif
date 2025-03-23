@@ -75,8 +75,8 @@ const unshreif = {
 
 ## 🚀 Projects
 <div align="center">
-  <a href="https://github.com/unshreif/Password-Generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=unshreif&repo=Password-Generator&theme=radical&hide_border=true">
+  <a href="https://github.com/unshreif/unit-convertor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=unshreif&repo=unit-Convertor&theme=radical&hide_border=true">
   </a>
 </div>
 
