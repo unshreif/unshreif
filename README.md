@@ -15,7 +15,10 @@
 
 ```javascript
 const unshreif = {
-  code: ["JavaScript", "Python", "HTML", "CSS"],
+  code: ["JavaScript", "Python", "HTML", "CSS", "TypeScript", "React", "Node.js"],
+  frameworks: ["Express", "Vue.js", "Next.js", "Bootstrap", "Tailwind CSS"],
+  databases: ["MongoDB", "MySQL", "PostgreSQL"],
+  tools: ["Docker", "AWS", "Git", "Webpack", "Redux"],
   passion: "Creating efficient and innovative solutions",
   hobbies: ["Tackling challenging problems", "Learning new technologies"]
 };
@@ -27,6 +30,15 @@ const unshreif = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -39,6 +51,10 @@ const unshreif = {
   JavaScript   ████████████████░░░░░░   75%
   HTML         ██████████████████████   95%
   CSS          ████████████████░░░░░░   75%
+  React        ███████████████░░░░░░░   70%
+  Node.js      ████████████████░░░░░░   75%
+  TypeScript   ██████████████░░░░░░░░   65%
+  MongoDB      ███████████████░░░░░░░   70%
   Git          ███████████████░░░░░░░   70%
   ```
 </details>
@@ -79,6 +95,11 @@ const unshreif = {
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
+</p>
+
+⭐️ From [unshreif](https://github.com/unshreif)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
 </p>
