@@ -16,9 +16,9 @@
 ```javascript
 const unshreif = {
   code: ["JavaScript", "Python", "HTML", "CSS", "TypeScript", "React", "Node.js"],
-  frameworks: ["Express", "Vue.js", "Next.js", "Bootstrap", "Tailwind CSS"],
-  databases: ["MongoDB", "MySQL", "PostgreSQL"],
-  tools: ["Docker", "AWS", "Git", "Webpack", "Redux"],
+  frameworks: ["Express", "Next.js", "Tailwind CSS"],
+  databases: ["MySQL", "PostgreSQL"],
+  tools: ["Git", "Webpack", "Redux"],
   passion: "Creating efficient and innovative solutions",
   hobbies: ["Tackling challenging problems", "Learning new technologies"]
 };
@@ -39,17 +39,13 @@ const unshreif = {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   
   <!-- Tools & Technologies -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   
   <!-- Skills -->
@@ -75,7 +71,7 @@ const unshreif = {
   React        ███████████████░░░░░░░   70%
   Node.js      ████████████████░░░░░░   75%
   TypeScript   ██████████████░░░░░░░░   65%
-  MongoDB      ███████████████░░░░░░░   70%
+  mySQL        ███████████████░░░░░░░   70%
   Git          ███████████████░░░░░░░   70%
   ```
 </details>
