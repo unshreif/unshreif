@@ -1,93 +1,86 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!;I'm+Unshreif&center=true&size=30">
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=unshreif&color=blueviolet&style=flat-square&label=Profile+Views">
+</p>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hi+there!+I'm+Muhmd+Samy;Welcome+to+my+Codeverse+✨" alt="Typing SVG" />
-  
-  <a href="https://linkedin.com/in/unshreif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/unshreif"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" alt="Twitter"/></a>
-  <a href="https://muhmdsamy.me"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" height="30" alt="Website"/></a>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=unshreif&label=Visitors&color=blueviolet&style=for-the-badge)
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=unshreif&theme=discord&no-frame=true&column=7" alt="Trophy" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=unshreif&theme=radical&no-frame=true&no-bg=true&margin-w=4">
 </div>
 
-<details open>
-  <summary><h2>🧙‍♂️ About Me</h2></summary>
-  <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+## 💫 About Me
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
-  - 🔭 Currently building **[E-commerce Website](https://github.com/unshreif/E-Commerce-website)**
-  - 🌱 Exploring the depths of **Technology/Framework**
-  - 👨‍💻 ou can also check **[my portfolio](https://muhmdsamy.me)**
-  - 🎯 2024 Goals: Contribute to Open Source projects
-  - 🎮 When not coding: I enjoy [coding]
-  - ⚡ Fun fact: You're not just a computer science student; I am like a supercomputer in action!
-</details>
+```javascript
+const unshreif = {
+  code: ["JavaScript", "Python", "HTML", "CSS"],
+  passion: "Creating efficient and innovative solutions",
+  hobbies: ["Tackling challenging problems", "Learning new technologies"]
+};
+```
 
-<details open>
-  <summary><h2>⚙️ Tech Stack</h2></summary>
-  <div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-  </div>
-</details>
-
-<details open>
-  <summary><h2>📊 GitHub Stats</h2></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td width="50%">
-          <img src="https://github-readme-stats.vercel.app/api?username=unshreif&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%"/>
-        </td>
-        <td width="50%">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=unshreif&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=unshreif&bg_color=1a1b27&color=628fda&line=2bbc8a&point=a877fc&hide_border=true" alt="Activity Graph" width="100%"/>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-
-<details open>
-  <summary><h2>🚀 Featured Projects</h2></summary>
-  <div align="center">
-    <a href="https://github.com/unshreif/E-Commerce-website">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=unshreif&repo=E-Commerce-website&theme=tokyonight&hide_border=true" />
-    </a>
-    <a href="https://github.com/unshreif/portfilio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=unshreif&repo=portfilio&theme=tokyonight&hide_border=true" />
-    </a>
-  </div>
-</details>
+## 🛠️ Skills & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 <details>
-  <summary><h2>🏆 Achievements</h2></summary>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unshreif&theme=tokyonight" width="100%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unshreif&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=unshreif&theme=tokyonight&hide_border=true" width="48%"/>
-  </div>
+  <summary>💻 Skill Progress</summary>
+  <br>
+  
+  ```text
+  Python       ███████████████████░░   85%
+  JavaScript   ████████████████░░░░░░   75%
+  HTML         ██████████████████████   95%
+  CSS          ████████████████░░░░░░   75%
+  Git          ███████████████░░░░░░░   70%
+  ```
 </details>
 
+## 🚀 Projects
 <div align="center">
-  <h2>📬 Get In Touch</h2>
-  <a href="mailto:unshreif@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://calendly.com/unshreif"><img src="https://img.shields.io/badge/Schedule%20Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/></a>
-  
-  ---
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
-  
-  <img src="https://raw.githubusercontent.com/unshreif/unshreif/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+  <a href="https://github.com/unshreif/Password-Generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=unshreif&repo=Password-Generator&theme=radical&hide_border=true">
+  </a>
+</div>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=unshreif&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=unshreif&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unshreif&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unshreif&theme=radical" />
+</p>
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://github.com/unshreif">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+
+  ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
+</p>
+
+⭐️ From [unshreif](https://github.com/unshreif)
