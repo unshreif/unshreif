@@ -70,7 +70,7 @@ const unshreif = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=unshreif&repo=unit-Convertor&theme=radical&hide_border=true">
   </a>
   <a href="https://github.com/unshreif/calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=unshreif&repo=portfolio&theme=radical&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=unshreif&repo=calculator&theme=radical&hide_border=true">
   </a>
 </div>
 
