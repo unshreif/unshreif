@@ -17,7 +17,7 @@
 const unshreif = {
   code: ["JavaScript", "Python", "HTML", "CSS", "TypeScript", "React", "Node.js"],
   frameworks: ["Express", "Next.js", "Tailwind CSS"],
-  databases: ["MySQL", "PostgreSQL"],
+  databases: ["MySQL", "Supabase"],
   tools: ["Git", "Webpack", "Redux"],
   passion: "Creating efficient and innovative solutions",
   hobbies: ["Tackling challenging problems", "Learning new technologies"]
